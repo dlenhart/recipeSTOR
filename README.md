@@ -2,6 +2,8 @@
 
 Old application I wrote approx. 2012 - 2014 timeframe. I believe I wrote this for my wife, who never used it. Written in vanilla PHP, before I started using frameworks. Some libraries are included in includes directory whom I don't know the authors . Stores food recipes, user management system, random recipes and more. JQUERY Mobile interface with custom CSS style. MySQL DB script included. Discovered on old server, stashing code for safe keeping =).
 
+Warning: This app is old, please don't use this on your production equipment!
+
 ## License
 
 MIT License

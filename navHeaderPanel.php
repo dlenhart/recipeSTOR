@@ -2,7 +2,7 @@
 		<h1>recipeSTOR</h1>
 		<a href="#nav-panel" data-icon="bars" data-iconpos="">Menu</a>
 		<a href="settings.php" data-icon="gear" data-iconpos="notext">Settings</a>
-		
+
 	</div>
 	<div data-role="panel" data-position-fixed="true" data-theme="a" id="nav-panel" data-display="overlay">
         <ul data-role="listview" data-theme="a" class="nav-search">
