@@ -1,0 +1,48 @@
+dinnerSTOR - snowytech
+
+3/28/13 1.00
+------
+Basic functionality.
+*Random Page sql query randomly picks a recipie.
+*View Entries - lists out the title of all recipies.
+*Add Entries - Add new recipie.  form validation not present.
+*Delete Page(Edit/Delete) - jqm collapsible view.
+
+
+5/2/13  1.01
+------
+*Removed delete page and consolidated EDIT & REMOVE buttons to full_view.php view.
+*Started Scheduler
+
+
+8/20  1.02
+------
+*Added logins using md5
+*added settings page to update profile.
+*Added a way to test for ownership of posts
+*Can do public and private views on posts
+
+8/21  1.03
+------
+*Added printable view in the full_view.php page
+
+8/24 1.04
+------
+*Fixed add.php page.  filing in fields is a requirement.
+
+8/28/13  1.05
+------
+*Added email option to recipies.
+*Changed login method to different hash method.
+*superuser pages.
+
+9/16/13
+------
+*Converted site to PDO.
+*Created secure login script.
+
+
+TODO:
+*export recipe's to pdf! **Started.
+*Scheduler
+*Super User - Delete ANY posts, create users.

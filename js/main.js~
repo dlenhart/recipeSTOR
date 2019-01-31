@@ -1,0 +1,25 @@
+$(document).ready(function() {
+	
+	$('#save').tap(function() {
+	   valD();
+	});
+	
+	//$('#cancel').tap(function() {
+	   	//document.getElementById('height').value = "";
+		//document.getElementById('weight').value = "";
+	//});
+});
+
+var valD = function(x) {
+	
+	var x;
+    	var slide = {transition: "slideup"};
+    	x = document.getElementById('food');
+   	var invalidPop = "#invalid";
+	
+   
+	if (x.value === "" || x.value === null) {
+        	$.mobile.changePage(invalidPop, slide);
+        	return false;
+	}
+};
